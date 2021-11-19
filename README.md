@@ -1,6 +1,7 @@
 # Landing Page Project
 
 The code in this repository is intended to satisfy Web Professional Track  Project  #1
+
 A landing page is the conversion of a static page into a page that allows dynamic interaction using JavaScript.
 
 ___
